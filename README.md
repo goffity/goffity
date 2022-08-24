@@ -17,7 +17,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/goffity"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="goffity" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goffity&show_icons=true&locale=en" alt="goffity" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goffity&" alt="goffity" /></p>
-
