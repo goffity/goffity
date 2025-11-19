@@ -11,7 +11,8 @@
 <a href="https://twitter.com/goffity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goffity" height="30" width="40" /></a>
 </p>
 
-![Goffity's github stats](https://github-readme-stats.vercel.app/api?username=goffity&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goffity&layout=compact)](https://github.com/pallat/goffity)
+![Goffity's github stats](https://github-readme-stats.vercel.app/api?username=goffity&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goffity&layout=compact)](https://github.com/goffity)
 
 
 <h3 align="left">Support:</h3>
